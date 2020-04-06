@@ -1,29 +1,213 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+####################################################################
+Day 00: April 5th, 2020
+####################################################################
+Today's Progress : 
+    <ul>
+        <li>Getting to know GitHub</li>
+        <li>Creating github repository ...</li>
+        <li>Create a list of what i want to do ...</li>
+    </ul>
+Thoughts :
+Link(s) to work :
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+####################################################################
+Day 01: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+####################################################################
+Day 02: April 7th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
 
-**Link to work:** [Calculator App](http://www.example.com)
+####################################################################
+Day 03: April 8th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+####################################################################
+Day 04: April 9th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+####################################################################
+Day 05: April 10th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+####################################################################
+Day 06: April 11th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+####################################################################
+Day 07: April 12th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
 
+####################################################################
+Day 0: April 13th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
 
-### Day 1: June 27, Monday
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
+####################################################################
+Day 0: April 6th, 2020
+####################################################################
+Today's Progress :
+Thoughts :
+Link(s) to work :
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
