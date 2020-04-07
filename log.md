@@ -30,6 +30,16 @@
 ---
 
 
+## Day 02: April 7th, 2020 
+### Today's Progress : 
+
+* review my data
+* finist part2 of FreeCodeCamp.org 
+
+### Thoughts :
+
+### Link(s) to work :
+
 
 
 **Link(s) to work**  
