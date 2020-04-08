@@ -34,7 +34,7 @@
 ### Today's Progress : 
 
 * review my data
-* finist part2 of FreeCodeCamp.org 
+* finish part2 of FreeCodeCamp.org 
 
 ### Thoughts :
 
